@@ -89,6 +89,7 @@ This project focuses on end-to-end **Data Cleaning**, **Exploratory Data Analysi
 ## 🎥 Project Demo
 
 > 📹 https://drive.google.com/file/d/1DCuumtjo8BGBmDKWArZTmt628rgqWROi/view?usp=sharing.)*
+> dasboard link : https://71e93b97-a1d2-4f58-9d3a-64a4c9e962f5-00-2jbk9jhzfsgcx.janeway.replit.dev/
 
 ---
 
