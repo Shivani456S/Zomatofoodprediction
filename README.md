@@ -93,7 +93,6 @@ This project focuses on end-to-end **Data Cleaning**, **Exploratory Data Analysi
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/shivani-singh24/)
 - 📧 Email: **shivi152003@gmail.com**
 
 ---
