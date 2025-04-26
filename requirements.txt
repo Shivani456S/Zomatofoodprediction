@@ -1,0 +1,11 @@
+pandas 
+numpy
+Flask
+scikit-learn
+Pickle
+os
+sys
+Dataclasses
+xgboost
+werkzeug
+-e . 
